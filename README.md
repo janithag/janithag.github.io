@@ -1,1 +1,2 @@
 # janithag.github.io
+WELCOME
